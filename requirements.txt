@@ -1,0 +1,6 @@
+spacy==3.5.0
+pytextrank==3.0.0
+streamlit
+requests
+sumy
+nltk
