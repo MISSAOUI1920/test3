@@ -8,6 +8,7 @@ from sumy.parsers.plaintext import PlaintextParser
 from sumy.nlp.tokenizers import Tokenizer
 from sumy.summarizers.lsa import LsaSummarizer
 import nltk
+import numpy as np
 
 # Function to download the spaCy model
 def download_spacy_model():
