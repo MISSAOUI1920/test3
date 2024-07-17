@@ -5,3 +5,4 @@ streamlit
 requests
 sumy
 nltk
+scipy
